@@ -1,0 +1,7 @@
+ [
+	{
+		"token": "<your token goes here>",
+		"channel": "<user/channel id>",
+		"message": "<message to send>"
+	}
+ ]
