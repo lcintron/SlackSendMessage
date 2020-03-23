@@ -1,3 +1,4 @@
+![PyInstaller](https://github.com/lcintron/SlackSendMessage/workflows/PyInstaller/badge.svg)
 # SlackSendMessage
 Send message on behalf of you. Great for automating or schedule messages.
 ## Arguments
