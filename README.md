@@ -6,8 +6,8 @@ Send message on behalf of you. Great for automating or schedule messages.
          -h             Help
          -m, --message  Message to send (required if no file)
          -c, --channel  Recipient Channel ID or User ID (required if no file)
-         -f, --file     Configuration File (required if no file)
-         -t, --token    Slack App Authentication Token (optional, other arguments ignored when set)
+         -t, --token    Slack App Authentication Token (required if no file)
+         -f, --file     Path to configuration file (fetches message from json file)
 ```         
 ## How to use?
   Pass needed values as command-line arguments:

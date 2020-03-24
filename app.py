@@ -74,8 +74,8 @@ def printHelp():
     print('\t -h\t\tHelp')
     print('\t -m, --message\tMessage to send (required if no file)')
     print('\t -c, --channel\tRecipient Channel ID or User ID (required if no file)')
-    print('\t -f, --file\tConfiguration File (required if no file)')
-    print('\t -t, --token\tSlack App Authentication Token (optional, other arguments ignored when set)')
+    print('\t -t, --token\tSlack App Authentication Token (required if no file')
+    print('\t -f, --file\tPath to configuration file (fetches message from json file)')
 
 
 def main(argv):
