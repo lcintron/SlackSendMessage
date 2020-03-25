@@ -1,6 +1,7 @@
 ![PyInstaller](https://github.com/lcintron/SlackSendMessage/workflows/PyInstaller/badge.svg)
 # SlackSendMessage
-Send message on behalf of you. Great for automating or schedule messages.
+Send Slack messages on behalf of you. Great for automating or scheduling messages on your Slack workspace.
+
 ## Arguments
 ```Arguments:
          -h             Help
@@ -22,7 +23,7 @@ Send message on behalf of you. Great for automating or schedule messages.
   
 
 ## Getting a Slack API Token:
-<Instructions in Progress>
+You will need to create a Slack application in the respective workspace with chat:write and im:write permissions. Once created, you will be given the token you will utilize with this tool.
   
 ## Dependencies
   - Python3
