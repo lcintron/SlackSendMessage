@@ -23,7 +23,8 @@ Send Slack messages on behalf of you. Great for automating or scheduling message
   
 
 ## Getting a Slack API Token:
-You will need to create a Slack application in the respective workspace with chat:write and im:write permissions. Once created, you will be given the token you will utilize with this tool.
+         - You will need to create a Slack application in the respective workspace with chat:write and im:write permissions. Once created, you will be given the token you will utilize with this tool.
+         - [To be deprecated in May 2020] Request a legacy token at the following page: https://api.slack.com/legacy/custom-integrations/legacy-tokens
   
 ## Dependencies
   - Python3
